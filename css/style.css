@@ -27,6 +27,20 @@
     text-transform: uppercase;
 }
 
+.btn{
+    height: 70px;
+    width: 100px;
+    padding: 10px;
+}
+
+.btn h2 {
+    color: #B91550;
+}
+
+.btn-container{
+    margin: auto;
+}
+
 
 
 /*******************************/
