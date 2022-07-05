@@ -1,7 +1,6 @@
 const tripKm = parseInt (prompt ('Inserisci il numero di Km di viaggio'));
+const eta = parseInt (prompt ('Inserisci la tua età'))
 
-if (isNan(tripKm)) {
-    alert ('Valore inserito non valido');
-} else {
-    alert ('Hai inserito: ' + tripKm)
-}
+const prezzoXkm = 0.21;
+
+
