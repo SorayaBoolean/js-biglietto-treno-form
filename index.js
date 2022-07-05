@@ -1,0 +1,1 @@
+const tripKm = parseInt (prompt ('Inserisci il numero di Km di viaggio'));
