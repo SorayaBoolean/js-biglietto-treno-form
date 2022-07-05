@@ -3,3 +3,67 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --background-body-one: #B91550;
+}
+
+/*********General-Rules*********/
+
+.flex {
+    display: flex;
+}
+
+.text-light {
+    color: white;
+}
+
+.container h1{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+
+
+/*******************************/
+
+body{
+    background-color:#B91550;
+}
+
+.container-ticket-form {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+  
+    
+}
+
+ .ticket-name h2 {
+    color: #B91550;
+    padding-top: 30px;
+
+}
+
+.text-input {
+    height: 70px;
+    width: 300px;
+    margin-top: 30px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    border: 2px solid #B91550;
+}
+
+/*********debugs*********/
+
+.ticket-name{
+    width: 33.33%;
+    text-align: center;
+    border: 1px dashed red;
+}
